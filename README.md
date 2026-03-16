@@ -1,1 +1,3 @@
-# Development-of-AI-tools-for-speech-development-diagnostics-communicative-development-
+# Создание инструментов ИИ для диагностики развития речи (коммуникативное развитие)
+Партнёр: ООО «СтендАп Инновации»; 
+Тип данных: Текст
